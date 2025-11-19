@@ -17,12 +17,12 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [UNO Design| CSCI 325](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Air Drop | CSCI 332](project1)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -33,18 +33,18 @@ Ethics Papers
 
 ### [Ethics](/pdf/EthicsObject.pdf)
 
--   **Class:**  Object orinted 325
--   **Grade:** 90/100
+-   **Class:**  Object-Oriented Programming(325)
+-   **Grade:** 100/100
 
 ### [AI Ethics Impact](/pdf/AIEthicsSSL.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Survey of Scripting Lanuages(301)
+-   **Grade:** 80/100
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics: Notifications and Distraction](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Produceral Promgramming
+-   **Grade:** 92/100
 
 ---
 
