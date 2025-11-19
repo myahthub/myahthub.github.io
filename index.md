@@ -24,7 +24,8 @@ Programming Projects
 ---
 ### [Air Drop | CSCI 332](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Server](images/Server.jpg)
+![Client](images/Client.jpg) 
 
 ---
 
