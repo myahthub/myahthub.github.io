@@ -31,12 +31,12 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics](/pdf/EthicsObject.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**  Object orinted 325
+-   **Grade:** 90/100
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [AI Ethics Impact](/pdf/AIEthicsSSL.pdf)
 
 -   **Class:** 
 -   **Grade:**
