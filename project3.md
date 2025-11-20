@@ -30,14 +30,12 @@ If the programming language does not require compilation, the update the heading
 
 ## UI Design
 
-For this project, I worked with a command-line interface (CLI) instead of a graphical user interface. A CLI is a type of user interface where the user interacts with the computer by typing commands rather than clicking buttons or navigating menus.
+The UNO game uses a console-based interface to interact with the player. The main menu allows the player to start a new game, load a saved game, view instructions, or exit. During a new game, the player enters their name, selects the number of AI opponents, and chooses a difficulty level. Each turn, the console displays the player’s hand, the top card of the discard pile, and the current player. Players select a card to play or draw a card if no valid moves are available. Action cards prompt additional choices, such as selecting a color for Wild cards or notifying the next player to draw cards for Draw Two/Wild Draw Four cards. Players must declare “UNO” when they have one card left. The console validates inputs, shows error messages for invalid moves, and at the end of the game, displays the winner and final rankings, all through simple text prompts without a graphical interface.
 
-In my case, I used command lines to run my code, navigate files, and execute my Python web-scraping script. Even though it’s text-based, the CLI still counts as a form of UI because it provides a way for the user to interact with the system.
-
-![screenshot](images/.jpg)  
+![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/web.jpg)  
+![screenshot](images/dummy_thumbnail.jpg)  
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
@@ -45,7 +43,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Using the command line comes with a few things to keep in mind. It can be harder at first because you have to remember commands instead of clicking buttons. Errors also show up as plain text, so you need clear instructions to understand what went wrong. Different computers use different command styles, and since the command line can do powerful things, you have to be careful not to run anything that could mess up your system.
+The UNO game uses a console-based interface where players can start a new game, load a saved game, view instructions, or exit. Players enter their name, choose AI opponents, and select difficulty. Each turn, the console shows the player’s hand, the top discard card, and the current turn. Players can play a card or draw if no valid moves exist. Action cards prompt additional choices, such as selecting a color for Wild cards or forcing opponents to draw. Players must declare “UNO” when down to one card. The game validates input, reshuffles the deck when empty, ensures AI follows basic strategy, and provides clear feedback for invalid actions. Winners and rankings are displayed at the end, all through text prompts without a graphical interface.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
