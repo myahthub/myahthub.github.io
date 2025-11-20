@@ -28,14 +28,14 @@ If the programming language does not require compilation, the update the heading
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+For this project, I worked with a command-line interface (CLI) instead of a graphical user interface. A CLI is a type of user interface where the user interacts with the computer by typing commands rather than clicking buttons or navigating menus.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+In my case, I used command lines to run my code, navigate files, and execute my Python web-scraping script. Even though it’s text-based, the CLI still counts as a form of UI because it provides a way for the user to interact with the system.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/web.jpg)  
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
