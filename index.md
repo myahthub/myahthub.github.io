@@ -57,7 +57,7 @@ Presentations
 - **Grade:** 
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [UNO](/pdf/sample_presentation.pdf)
 
 - **Class:** 
 - **Grade:**
