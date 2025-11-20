@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Computer-Science (class of 2027)
   <br /><br />
-  <images/Resume.pdf>View My Resume
+  </pdf/Resume.pdf>View My Resume
   <br /><br />
   <a href="https://www.linkedin.com/jobs/">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
