@@ -43,7 +43,7 @@ Ethics Papers
 
 ### [Ethics: Notifications and Distraction](/pdf/sample_presentation.pdf)
 
--   **Class:** Produceral Promgramming
+-   **Class:** Produceral Promgramming(235)
 -   **Grade:** 92/100
 
 ---
