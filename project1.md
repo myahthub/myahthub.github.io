@@ -43,7 +43,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Using the command line comes with a few things to keep in mind. It can be harder at first because you have to remember commands instead of clicking buttons. Errors also show up as plain text, so you need clear instructions to understand what went wrong. Different computers use different command styles, and since the command line can do powerful things, you have to be careful not to run anything that could mess up your system.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
