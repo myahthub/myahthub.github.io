@@ -17,12 +17,12 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [UNO Design| CSCI 325](project1)
+### [UNO Design| CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Air Drop | CSCI 332](project1)
+### [Air Drop | CSCI 332](project4)
 
 ![Server](images/Server.jpg)
 ![Client](images/Client.jpg) 
