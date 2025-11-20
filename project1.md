@@ -3,15 +3,17 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** Survey of Scripitng Languages
+-   **Grade:** 100/100
+-   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For this assignment, I used Python and the Beautiful Soup library to practice web scraping. The Real Python tutorial (https://realpython.com/beautiful-soup-web-scraper-python/) includes a “Keep Practicing” exercise where I had to take my web-scraping code and apply it to websites that use static HTML. From the list of suggested sites, I chose one and wrote a script that collects a list of jobs that might interest me.
+
+To complete the project, I used the requests library to pull the webpage’s HTML and then used BeautifulSoup to parse the page and extract the information I needed. After my scraper collected the job titles, I saved the Python file to my GitHub so it can be viewed or downloaded. I also submitted the list of jobs I scraped into Blackboard as required.
 
 ## How to compile and run the program
 
