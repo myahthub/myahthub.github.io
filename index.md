@@ -32,7 +32,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics](/pdf/EthicsObject.pdf)
+### [ABET SLO 4 Ethics](/pdf/EthicsObject.pdf)
 
 -   **Class:**  Object-Oriented Programming(325)
 -   **Grade:** 100/100
