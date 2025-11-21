@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Battleship| CSCI 235](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/battleship.jpg)
 
 ---
 ### [UNO Game| CSCI 325](project3)
