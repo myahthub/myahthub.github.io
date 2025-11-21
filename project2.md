@@ -17,8 +17,8 @@ This C++ program is a text-based Battleship game where the player competes again
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python scraper.py
+g++ Battleship.cpp -o battleship.cpp
+./battleship
 ```
 
 ## UI Design
