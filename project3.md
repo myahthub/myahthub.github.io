@@ -22,11 +22,10 @@ cd path/to/your/project
 javac csu/csci325/*.java
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
-
 ## UI Design
 
 The UNO game is played through the computer console. Players pick a card to play or draw a card if they can’t play, use special cards like Skip or Wild, say “UNO” when they have one card left, and the game tells them if they make a mistake and shows who wins at the end.
+
 
 ![screenshot](images/unolaunch.jpg)  
 Fig 1. The launch screen
