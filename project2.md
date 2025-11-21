@@ -36,6 +36,7 @@ Fig 1. The launch screen
 Fig 2. Output after input is processed.
 
 ![screenshot](images/battleshiperror.jpg)
+
 Fig 3. Invalid Coordinates
 
 
