@@ -6,8 +6,8 @@ UNO
 -   **Class:** Objected-Orinented Programming
 -   **Grade:** 70/100
 -   **Language(s):** Java
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [[features/mastering-markdown](https://guides.github.com/features/mastering-markdown/) ](https://github.com/csu-cs/UNOgame)
+    (Please [email me](mailto:atemple2@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 This project is a digital version of the classic UNO card game. The goal of the software is to allow a human player to play UNO against computer-controlled opponents (AI). 
