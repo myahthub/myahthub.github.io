@@ -38,8 +38,6 @@ Fig 1. The launch screen
 ![screenshot](images/web.jpg)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
