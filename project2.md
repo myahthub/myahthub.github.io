@@ -6,7 +6,7 @@ Battleship
 -   **Class:** Produceral Programming
 -   **Grade:** 105/100
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/myahthub/Battleship)(https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:atemple2@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
