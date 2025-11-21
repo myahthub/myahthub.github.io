@@ -37,4 +37,5 @@ Fig 2. Client input
 ## 3. Additional Considerations
 
 Ensuring the interface remains consistent, accessible, and responsive across different devices. I also make sure the layout supports user needs, loads efficiently, and maintains a clean, intuitive design throughout the project.
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
