@@ -35,11 +35,11 @@ The UNO game uses a console-based interface to interact with the player. The mai
 ![screenshot](images/unolaunch.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/activegame.jpg)  
+Fig 2. Game is in processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/gamewon.jpg)  
+Fig 3. Game over
 
 ## 3. Additional Considerations
 
