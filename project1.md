@@ -7,7 +7,7 @@ Webscraping
 -   **Grade:** 100/100
 -   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:atemple2@student.csuniv.edu) to request access.)
+    (Please [email me](mailto:atemple2@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
