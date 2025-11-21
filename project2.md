@@ -11,9 +11,7 @@ Battleship
 
 ## Project description
 
-This C++ program is a text-based Battleship game where the player competes against the computer to sink each other’s ships. The game displays both the player’s and enemy’s boards, updates them after each turn, 
-and allows the player to select a preferred randomly generated board layout. Players enter coordinates to take shots, with the program indicating hits, misses, and when a ship is sunk. The enemy uses an AI to take turns, 
-including an animation effect to simulate decision-making. The game continues until all ships of one side are destroyed, at which point it announces the winner and shows the final board states.
+This C++ program is a text-based Battleship game where the player competes against the computer to sink each other’s ships. The game displays both the player’s and enemy’s boards, updates them after each turn, and allows the player to select a preferred randomly generated board layout. Players enter coordinates to take shots, with the program indicating hits, misses, and when a ship is sunk. The enemy uses an AI to take turns, including an animation effect to simulate decision-making. The game continues until all ships of one side are destroyed, at which point it announces the winner and shows the final board states.
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
@@ -25,10 +23,8 @@ python scraper.py
 
 ## UI Design
 
-The game features a text-based terminal interface that is clear and easy to navigate. Both the enemy’s and player’s boards are displayed side by side, 
-with row labels (A-J) and column numbers (1-10) for coordinate reference. The enemy board shows only hits (X), misses (~), and unexplored water (.), 
-while the player’s board displays all ships, hits, and misses. Players are prompted to select a preferred board layout at the start and to enter shot 
-coordinates each turn, with invalid inputs handled gracefully. At the end of the game, both boards are displayed with all ships revealed, accompanied by a message announcing the winner.
+The game features a text-based terminal interface that is clear and easy to navigate. Both the enemy’s and player’s boards are displayed side by side, with row labels (A-J) and column numbers (1-10) for coordinate reference. The enemy board shows only hits (X), misses (~), and unexplored water (.), 
+while the player’s board displays all ships, hits, and misses. Players are prompted to select a preferred board layout at the start and to enter shot coordinates each turn, with invalid inputs handled gracefully. At the end of the game, both boards are displayed with all ships revealed, accompanied by a message announcing the winner.
 
 ![screenshot](images/battleship.jpg)
 Fig 1. The launch screen
