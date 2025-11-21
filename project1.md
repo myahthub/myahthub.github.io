@@ -7,7 +7,7 @@ Webscraping
 -   **Grade:** 100/100
 -   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:atemple2@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -21,7 +21,7 @@ How to compile (if applicable) and run the project.
 
 ```bash
 cd ./project
-python setup.py
+python scraper.py
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
