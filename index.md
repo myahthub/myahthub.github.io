@@ -43,7 +43,7 @@ Ethics Papers
 
 ### [Ethics: Notifications and Distraction](/pdf/sample_presentation.pdf)
 
--   **Class:** Produceral Promgramming(235)
+-   **Class:** Produceral Programming(235)
 -   **Grade:** 92/100
 
 ---
@@ -54,13 +54,13 @@ Presentations
 ### [Air Drop](/pdf/AirDrop.pdf)
 
 - **Class:** Appiled Networking
-- **Grade:** 
+- **Grade:** n/a
 
 
 ### [UNO](/pdf/UnoJavaGame.pdf)
 
 - **Class:** Object-Oriented Programming
-- **Grade:**
+- **Grade:** n/a
 
 ---
 
