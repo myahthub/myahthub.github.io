@@ -30,6 +30,7 @@ with row labels (A-J) and column numbers (1-10) for coordinate reference. The en
 while the player’s board displays all ships, hits, and misses. Players are prompted to select a preferred board layout at the start and to enter shot 
 coordinates each turn, with invalid inputs handled gracefully. At the end of the game, both boards are displayed with all ships revealed, accompanied by a message announcing the winner.
 
+![screenshot](images/battleship.jpg)
 Fig 1. The launch screen
 
 ![screenshot](images/hitenemyship.jpg)  
