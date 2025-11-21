@@ -10,27 +10,23 @@ UNO
     (Please [email me](mailto:atemple2@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
-This project is a digital version of the classic UNO card game. The goal of the software is to allow a human player to play UNO against computer-controlled opponents (AI). 
-The system manages the deck, turn order, card effects, and overall game flow. Players can draw cards, play valid cards, use action cards, and attempt to win by discarding all cards in their hand.
+This project is a digital version of the UNO card game where you play against computer opponents. The program keeps track of the cards, whose turn it is, and the rules of the game.
 
-The game includes a user interface that displays the current turn, cards in each player’s hand, and the top card of the discard pile. The Game Manager controls the overall logic, 
-such as enforcing rules, applying action card effects, switching turns, and determining when the game ends. AI opponents make simple strategic decisions on which card to play. 
-The program follows an object-oriented design using several interacting classes, such as Player, AIPlayer, Card, Deck, ActionCard, GameUI, and GameManager.
-
+You can draw cards, play cards, and use special action cards to try to get rid of all your cards first. The game shows your cards, the top card on the pile, and whose turn it is. The computer players (AI) decide which card to play, and the program handles all the game logic using different classes like Player, AIPlayer, Card, Deck, and GameManager.
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd path/to/your/project
+javac csu/csci325/*.java
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-The UNO game uses a console-based interface to interact with the player. The main menu allows the player to start a new game, load a saved game, view instructions, or exit. During a new game, the player enters their name, selects the number of AI opponents, and chooses a difficulty level. Each turn, the console displays the player’s hand, the top card of the discard pile, and the current player. Players select a card to play or draw a card if no valid moves are available. Action cards prompt additional choices, such as selecting a color for Wild cards or notifying the next player to draw cards for Draw Two/Wild Draw Four cards. Players must declare “UNO” when they have one card left. The console validates inputs, shows error messages for invalid moves, and at the end of the game, displays the winner and final rankings, all through simple text prompts without a graphical interface.
+The UNO game is played through the computer console. Players pick a card to play or draw a card if they can’t play, use special cards like Skip or Wild, say “UNO” when they have one card left, and the game tells them if they make a mistake and shows who wins at the end.
 
 ![screenshot](images/unolaunch.jpg)  
 Fig 1. The launch screen
@@ -43,7 +39,7 @@ Fig 3. Game over
 
 ## 3. Additional Considerations
 
-The UNO game uses a console-based interface where players can start a new game, load a saved game, view instructions, or exit. Players enter their name, choose AI opponents, and select difficulty. Each turn, the console shows the player’s hand, the top discard card, and the current turn. Players can play a card or draw if no valid moves exist. Action cards prompt additional choices, such as selecting a color for Wild cards or forcing opponents to draw. Players must declare “UNO” when down to one card. The game provides clear feedback for invalid actions. Winners and rankings are displayed at the end, all through text prompts without a graphical interface.
+The UNO game is played in the console. Players enter their name, play against AI, and take turns playing cards or drawing if they can’t play. Special cards like Wild or Draw Two do extra things, and players say “UNO” when they have one card left. The game shows mistakes and tells who wins at the end. You can’t save or resume games.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
