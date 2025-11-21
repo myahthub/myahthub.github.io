@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Air Drop | CSCI 332](project4)
 
-![dp](images/airdrop.jpg)
+![dp](images/air.jpg)
 
 ---
 
