@@ -18,6 +18,7 @@ How to compile (if applicable) and run the project.
 
 ```bash
 g++ Battleship.cpp -o battleship.cpp
+
 ./battleship
 ```
 
@@ -32,10 +33,10 @@ Fig 1. The launch screen
 
 ![screenshot](images/hitenemyship.jpg)  
 
-Fig 2. Example output after input is processed.
+Fig 2. Output after input is processed.
 
 ![screenshot](images/battleshiperror.jpg)
-Fig 3. Invalid coordaintes
+Fig 3. Invalid Coordinates
 
 
 ## 3. Additional Considerations
