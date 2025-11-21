@@ -6,7 +6,7 @@ Webscraping
 -   **Class:** Survey of Scripitng Languages
 -   **Grade:** 100/100
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [[features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)](https://github.com/myahthub/CSCI-301-code-repository/tree/master/FinalProject)  
     (Please [email me](mailto:atemple2@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
