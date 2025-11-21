@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [UNO Design| CSCI 325](project3)
+### [UNO Game| CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
