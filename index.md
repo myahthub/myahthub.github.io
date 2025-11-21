@@ -57,9 +57,9 @@ Presentations
 - **Grade:** 
 
 
-### [UNO](/pdf/sample_presentation.pdf)
+### [UNO](/pdf/UnoJavaGame.pdf)
 
-- **Class:** 
+- **Class:** Object-Oriented Programming
 - **Grade:**
 
 ---
