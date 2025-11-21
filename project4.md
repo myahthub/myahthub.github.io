@@ -28,10 +28,10 @@ g++ client.cpp -o client
 Focuses on creating clear, simple, and easy-to-use interfaces. My goal is to organize elements so users can navigate smoothly and complete tasks without confusion.
 
 ![screenshot](images/Server.jpg)  
-Fig 1. The launch screen
+Fig 1. Server input
 
 ![screenshot](images/Client.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. Client input
 
 
 ## 3. Additional Considerations
