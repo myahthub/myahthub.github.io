@@ -32,7 +32,7 @@ For this project, I worked with a command-line interface (CLI) instead of a grap
 
 In my case, I used command lines to run my code, navigate files, and execute my Python web-scraping script. Even though it’s text-based, the CLI still counts as a form of UI because it provides a way for the user to interact with the system.
 
-![screenshot](images/301final.jpg)  
+![screenshot](images/301final1.jpg)  
 Fig 1. The launch screen
 
 ![screenshot](images/web.jpg)  
