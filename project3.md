@@ -6,7 +6,7 @@ UNO
 -   **Class:** Objected-Orinented Programming
 -   **Grade:** 70/100
 -   **Language(s):** Java
--   **Source Code Repository:** [[features/mastering-markdown](https://guides.github.com/features/mastering-markdown/) ](https://github.com/csu-cs/UNOgame)
+-   **Source Code Repository:** [[features/mastering-markdown](https://guides.github.com/features/mastering-markdown/) ]([https://github.com/csu-cs/UNOgame](https://github.com/myahthub/Uno.git))
     (Please [email me](mailto:atemple2@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
