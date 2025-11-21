@@ -43,7 +43,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-The UNO game uses a console-based interface where players can start a new game, load a saved game, view instructions, or exit. Players enter their name, choose AI opponents, and select difficulty. Each turn, the console shows the player’s hand, the top discard card, and the current turn. Players can play a card or draw if no valid moves exist. Action cards prompt additional choices, such as selecting a color for Wild cards or forcing opponents to draw. Players must declare “UNO” when down to one card. The game validates input, reshuffles the deck when empty, ensures AI follows basic strategy, and provides clear feedback for invalid actions. Winners and rankings are displayed at the end, all through text prompts without a graphical interface.
+The UNO game uses a console-based interface where players can start a new game, load a saved game, view instructions, or exit. Players enter their name, choose AI opponents, and select difficulty. Each turn, the console shows the player’s hand, the top discard card, and the current turn. Players can play a card or draw if no valid moves exist. Action cards prompt additional choices, such as selecting a color for Wild cards or forcing opponents to draw. Players must declare “UNO” when down to one card. The game provides clear feedback for invalid actions. Winners and rankings are displayed at the end, all through text prompts without a graphical interface.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
