@@ -11,10 +11,9 @@ Webscraping
 
 ## Project description
 
-For this assignment, I used Python and the Beautiful Soup library to practice web scraping. The Real Python tutorial (https://realpython.com/beautiful-soup-web-scraper-python/) includes a “Keep Practicing” exercise where I had to take my web-scraping code and apply it to websites that use static HTML. From the list of suggested sites, I chose one and wrote a script that collects a list of jobs that might interest me.
+For this assignment, I used Python and Beautiful Soup to practice web scraping. The Real Python tutorial has a “Keep Practicing” exercise where I had to use my code on websites with static HTML. I picked one site and wrote a script to get a list of jobs that I’m interested in.
 
-To complete the project, I used the requests library to pull the webpage’s HTML and then used BeautifulSoup to parse the page and extract the information I needed. After my scraper collected the job titles, I saved the Python file to my GitHub so it can be viewed or downloaded. I also submitted the list of jobs I scraped into Blackboard as required.
-
+I used the requests library to get the webpage and Beautiful Soup to pull out the job titles. After collecting the jobs, I saved my Python file to GitHub and submitted the job list on Blackboard.
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
@@ -28,9 +27,9 @@ If the programming language does not require compilation, the update the heading
 
 ## UI Design
 
-For this project, I worked with a command-line interface (CLI) instead of a graphical user interface. A CLI is a type of user interface where the user interacts with the computer by typing commands rather than clicking buttons or navigating menus.
+For this project, I used a command-line interface (CLI) instead of a normal visual interface. With a CLI, you type commands to control the computer instead of clicking buttons.
 
-In my case, I used command lines to run my code, navigate files, and execute my Python web-scraping script. Even though it’s text-based, the CLI still counts as a form of UI because it provides a way for the user to interact with the system.
+I used the command line to run my code, move around files, and run my Python web-scraping script. Even though it’s all text, it’s still a type of user interface because it lets me interact with the computer.
 
 ![screenshot](images/301final1.jpg)  
 Fig 1. The launch screen
@@ -41,7 +40,7 @@ Fig 2. Example output after input is processed.
 
 ## 3. Additional Considerations
 
-Using the command line comes with a few things to keep in mind. It can be harder at first because you have to remember commands instead of clicking buttons. Errors also show up as plain text, so you need clear instructions to understand what went wrong. Different computers use different command styles, and since the command line can do powerful things, you have to be careful not to run anything that could mess up your system.
+Using the command line has some things to watch out for. It can be tricky at first because you have to type commands instead of clicking buttons. Errors show up as plain text, so you need instructions to know what went wrong. Different computers use different commands, and the command line can do powerful things, so you have to be careful not to break anything.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
