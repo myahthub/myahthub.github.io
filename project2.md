@@ -42,7 +42,7 @@ Fig 3. Invalid coordaintes
 
 ## 3. Additional Considerations
 
-Using the command line comes with a few things to keep in mind. It can be harder at first because you have to remember commands instead of clicking buttons. Errors also show up as plain text, so you need clear instructions to understand what went wrong. Different computers use different command styles, and since the command line can do powerful things, you have to be careful not to run anything that could mess up your system.
+The game ensures valid input, preventing out-of-bounds or repeated shots, and updates the board clearly after each turn. Enemy AI uses brief animations to enhance gameplay, and ships are placed legally without overlapping. The program provides clear feedback for hits, misses, and sunk ships, keeping the game engaging and easy to follow.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
