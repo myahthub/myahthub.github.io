@@ -23,8 +23,6 @@ cd ./project
 python scraper.py
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
-
 ## UI Design
 
 For this project, I used a command-line interface (CLI) instead of a normal visual interface. With a CLI, you type commands to control the computer instead of clicking buttons.
