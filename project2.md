@@ -36,7 +36,7 @@ Fig 1. The launch screen
 ![screenshot](images/hitenemyship.jpg)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/battleshiperror/.jpg)
+![screenshot](images/battleshiperror.jpg)
 Fig 3. Invalid coordaintes
 
 
