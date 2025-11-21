@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [UNO Game| CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/unolaunch.jpg)
 
 ---
 ### [Air Drop | CSCI 332](project4)
