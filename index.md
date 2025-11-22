@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Webscraping| CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/web1.jpg)
 
 ---
 ### [Battleship| CSCI 235](project2)
