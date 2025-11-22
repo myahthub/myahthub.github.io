@@ -10,8 +10,6 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <a href="/pdf/Resume.pdf">View My Resume
   <br /><br />
   <a href="https://www.linkedin.com/in/a’myah-temple-056744341">View My LinkedIn Profile</a>
-  <br /><br />
-<a href="https://app.joinhandshake.com/profiles/wpjmgn">View My Handshake Profile</a>
 repository: "myahthub/myahthub.github.io"
 github_username:  myahthub # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
