@@ -6,7 +6,7 @@ Air Drop
 -   **Class:** Applied Networking
 -   **Grade:** 100/100
 -   **Language(s):** HTML, CSS, C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown]
     (Please [email me](mailto:atemple2@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
