@@ -5,13 +5,14 @@ logo: "/images/logo1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
   In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Computer-Science (class of 2027)
+  Bachelor of Science in Computer-Science (class of 2026)
   <br /><br />
   <a href="/pdf/Resume.pdf">View My Resume
   <br /><br />
   <a href="https://www.linkedin.com/in/a’myah-temple-056744341">View My LinkedIn Profile</a>
 repository: "myahthub/myahthub.github.io"
 github_username:  myahthub # update with your username
+<br /><br />
 <a href="https://app.joinhandshake.com/profiles/wpjmgn">View My Handshake Profile</a>
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
