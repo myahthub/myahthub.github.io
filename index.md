@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class:** Survey of Scripting Lanuages(301)
 -   **Grade:** 80/100
 
-### [Ethics: Notifications and Distraction](/pdf/sample_presentation.pdf)
+### [Ethics: Notifications and Distraction](/pdf/Ethics.pdf)
 
 -   **Class:** Produceral Programming(235)
 -   **Grade:** 92/100
