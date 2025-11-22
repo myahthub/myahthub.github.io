@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Webscraping
+Web Scraping
 ===============
 
 -   **Class:** Survey of Scripitng Languages
